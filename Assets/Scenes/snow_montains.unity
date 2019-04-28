@@ -862,7 +862,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534669902}
-  m_LocalRotation: {x: 0, y: -0.034824867, z: 0, w: -0.96676445}
+  m_LocalRotation: {x: 0, y: -0.032442354, z: 0, w: 0.99947363}
   m_LocalPosition: {x: 281.34277, y: 42.475, z: 151.86302}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -1527,7 +1527,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 67
+    m_FontSize: 16
     m_FontStyle: 0
     m_BestFit: 1
     m_MinSize: 0
@@ -1535,10 +1535,12 @@ MonoBehaviour:
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
-    m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
+    m_HorizontalOverflow: 1
+    m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: ' Tal vez, es bueno rendirse al menos una vez en la vida'
+  m_Text: ' Tal vez sea bueno rendirse
+
+    al menos una vez en la vida'
 --- !u!222 &1293207309
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2134,18 +2136,18 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 67
+    m_FontSize: 16
     m_FontStyle: 0
-    m_BestFit: 1
+    m_BestFit: 0
     m_MinSize: 0
     m_MaxSize: 300
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
-    m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
+    m_HorizontalOverflow: 1
+    m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Seguir\xE9 luchando, aunque est\xE9 solo, porque es lo correcto"
+  m_Text: "Seguir\xE9 luchando aunque est\xE9 solo,\nporque es lo correcto"
 --- !u!222 &1861536184
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2273,19 +2275,18 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 67
+    m_FontSize: 16
     m_FontStyle: 0
-    m_BestFit: 1
+    m_BestFit: 0
     m_MinSize: 0
     m_MaxSize: 300
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
-    m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
+    m_HorizontalOverflow: 1
+    m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\xBFCu\xE1l es el punto de continuar?, nadie me lo agradecer\xE1 ni me
-    recordar\xE1n"
+  m_Text: "\xBFCu\xE1l es el punto de continuar?\nNadie me lo agradecer\xE1"
 --- !u!222 &2003480737
 CanvasRenderer:
   m_ObjectHideFlags: 0
